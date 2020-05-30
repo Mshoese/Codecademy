@@ -1,0 +1,45 @@
+
+.banner{
+    
+    
+    background: url(../images/pattern.jpeg); 
+    background-position: center center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 50px, 0;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+  }
+
+h1{
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 100px;
+    color: khaki;
+}
+
+h2{
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#brush{
+    background-color: mediumspringgreen;
+}
+
+#frame{
+    background-color: lightcoral;
+}
+
+#paint{
+    background-color: skyblue;
+}
+
+.strong{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
