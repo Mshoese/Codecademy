@@ -1,0 +1,1 @@
+This repository contains my solutions to Codecademy projects while learning and/or practicing coding skills.
